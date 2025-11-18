@@ -31,6 +31,7 @@ A ferramenta permite que vendedores:
 
 - Microsoft Excel
 - Fórmulas avançadas
+- Python
 - Macros/VBA
 - Conceitos de UX aplicados à interface da planilha
 - Lógica de formação de preço baseada em regras reais da Shopee e Mercado Livre
@@ -39,7 +40,7 @@ A ferramenta permite que vendedores:
 
 Confira o vídeo de demonstração e veja como ele funciona na prática!
 
-🔗 [Assista ao vídeo aqui](link)
+🔗 [Assista ao vídeo aqui](https://www.youtube.com/watch?v=CuZ3w0LIOfo)
 
 ## 👥 Integrantes
 
