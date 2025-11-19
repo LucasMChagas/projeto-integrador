@@ -1,4 +1,4 @@
-# Projeto Integrador: Planilha de preços
+# Projeto Integrador: Análise de Soluções Integradas para Organizações
 ## 📌 Descrição
 Foi desenvolvida uma solução prática, acessível e eficiente para pequenos e médios vendedores que atuam em marketplaces como Shopee e Mercado Livre.
 O objetivo é permitir que o vendedor evite erros de cálculo, entenda corretamente as taxas e consiga definir o preço ideal de venda, preservando sua margem de lucro.
